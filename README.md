@@ -31,9 +31,7 @@ This back-end serves as the core API for a full-stack blog application, managing
 - **Axios** – HTTP client for testing routes
 - **Morgan** – HTTP request logger
 - **CORS** – Cross-Origin Resource Sharing
-- **Dotenv** – Environment variable configuration
-- **Nodemon** – Dev server with live reloading
-- **JSON Server** – Optional mock API server
+- **Dotenv** – Environment variable configuration 
 
 ## ✅ Summary
 
